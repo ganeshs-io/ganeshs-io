@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey, I'm Sai Ganesh Sanagaram 👋
+# Hey, I'm Sai Ganesh S 👋
 
 **`ML Researcher • Algorithm Analyst • Full-Stack Developer`**
 
